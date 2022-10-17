@@ -1,3 +1,5 @@
+Command git reset --soft
+
 $ git status
 On branch main
 Your branch is behind 'origin/main' by 2 commits, and can be fast-forwarded.
